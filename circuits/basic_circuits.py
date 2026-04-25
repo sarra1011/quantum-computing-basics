@@ -1,3 +1,9 @@
-# Basic quantum circuit placeholder
+from qiskit import QuantumCircuit
 
-print("Quantum circuits coming soon...")
+# Create a simple quantum circuit
+qc = QuantumCircuit(1)
+
+# Apply Hadamard gate (superposition)
+qc.h(0)
+
+print(qc)
