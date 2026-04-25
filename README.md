@@ -1,21 +1,27 @@
 # ⚛️ Quantum Computing Basics
 
 ## 📌 Overview
-This repository contains experiments and implementations of fundamental quantum computing concepts using Qiskit.
+This repository explores fundamental concepts of quantum computing using Qiskit.
 
-## 🧠 Topics
-- Qubits & Superposition  
-- Quantum Gates  
-- Entanglement  
-- Basic Algorithms (Grover)
+## 🧠 Topics Covered
+- Qubits and Superposition
+- Quantum Gates
+- Entanglement
+- Intro to Quantum Algorithms (Grover)
 
-## ⚙️ Tools
-- Python  
-- Qiskit  
+## ⚙️ Technologies
+- Python
+- Qiskit
 
 ## 📁 Structure
-- `notebooks/` → experiments  
-- `circuits/` → code implementations  
+- `circuits/` → quantum circuit implementations
+- `notebooks/` → experiments and simulations
+- `docs/` → theoretical notes
 
 ## 🚧 Status
 In Progress – learning and experimenting
+
+## 🔮 Future Work
+- Implement Grover’s algorithm
+- Add circuit visualizations
+- Simulate quantum measurements
