@@ -13,9 +13,10 @@ This repository explores fundamental concepts of quantum computing using Qiskit.
 - Python
 - Qiskit
 
-## 📁 Structure
+## 📁 Project Structure
+
+```bash
 quantum-repo/
-│
 ├── README.md
 ├── requirements.txt
 ├── notebooks/
@@ -37,7 +38,7 @@ quantum-repo/
 │
 └── docs/
     └── theory_notes.md
-
+```
 ## 🚧 Status
 In Progress – learning and experimenting
 
