@@ -1,4 +1,3 @@
-```markdown
 # ⚛️ Quantum Computing Basics
 
 > **A hands-on exploration of quantum mechanics, gate-based circuits, and quantum algorithm simulations using IBM Qiskit**
@@ -142,5 +141,3 @@ jupyter notebook notebooks/
 ## 📝 License
 
 Distributed under the MIT License.
-
-```
